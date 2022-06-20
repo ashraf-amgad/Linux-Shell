@@ -1,0 +1,2 @@
+-rwxrwxrwx 1 ashraf ashraf  8108 Nov 27  2020 main.c
+-rw-rw-r-- 1 ashraf ashraf 19784 Jun 20 02:28 main.o

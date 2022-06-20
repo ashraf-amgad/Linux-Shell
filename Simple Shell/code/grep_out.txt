@@ -1,0 +1,2 @@
+-rwxrwxr-x 1 ashraf ashraf 18464 Jun 20 02:35 Simple_Shell
+-rwxrwxrwx 1 ashraf ashraf 14956 Jan 26  2021 Simple_Shell.c
